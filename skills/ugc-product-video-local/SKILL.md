@@ -1,9 +1,9 @@
 ---
 name: ugc-product-video-local
 description: 上传产品图，一次生成多条可直接投放的用户原创内容或剧情带货视频；自动完成创意策划、达人参考图、分镜提示词、批量生成与成片拼接。
-slug: batch-product-video-devmaster947
+slug: batch-product-video
 displayName: 批量生成带货视频
-version: 5.0.3
+version: 5.0.4
 summary: 一张产品图，一次生成多条带货视频，从创意、达人、分镜到成片全流程自动完成。
 license: 保留所有权利
 tags:
@@ -15,7 +15,7 @@ tags:
 homepage: https://github.com/devmaster947-hub/ugc-product-video-local
 iconUrl: https://skillhub-1388575217.cos.accelerate.myqcloud.com/skill-icons/uploads/599501/d2e89e5ba19e4c06a6131ebebea0162d.png
 metadata:
-  version: "5.0.3"
+  version: "5.0.4"
 ---
 
 # UGC 带货视频（本地多渠道版）
