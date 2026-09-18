@@ -1,0 +1,4 @@
+interface:
+  display_name: "批量生成带货视频"
+  short_description: "上传产品图，自动批量生成创意、达人、分镜与带货成片"
+  default_prompt: "使用 $ugc-product-video-local，把我的产品图制作成一条或多条独立的本地化短视频带货内容，并按灵感画布、小云雀、即梦的顺序选择可用的视频生成渠道。"
